@@ -3,4 +3,5 @@ It has few bugs.
 1. When the initial box is played no sound is being played.
 2. It doesnt have a score counter and a high score counter.
 3. Doesnt get started on phone.
-4. If you click a box instead on a keypress at start it will say "Game Over".
+4. The design should be made better when viewing in a smaller viewport. 
+5. If you click a box instead on a keypress at start it will say "Game Over".
